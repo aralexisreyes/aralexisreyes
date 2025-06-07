@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello! I'm Alexis
 
-<!--
-**aralexisreyes/aralexisreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer with a strong foundation in financial systems, passionate about building tools that make businesses smarter and more efficient.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Backend:** Python, Django, PostgreSQL, SQL Server  
+- **ERP:** Odoo (v11–v18)  
+- **Frontend:** React Native, JavaScript  
+- **Tools:** Git, Docker, Linux, Excel (advanced)  
+
+---
+
+## 🔍 What I Do
+
+- Develop custom modules and integrations for Odoo to streamline financial and administrative processes  
+- Automate data analysis and reporting workflows  
+- Build APIs and backend services for financial applications  
+- Explore AI techniques to add intelligence to business solutions  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: alexisreyes0112@hotmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/alexis-reyes-665b61](https://www.linkedin.com/in/alexis-reyes-665b61)  
+
+---
+
+Thanks for visiting my profile! Feel free to reach out or check out my projects.
+
